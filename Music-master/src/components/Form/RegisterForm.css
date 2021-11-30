@@ -1,0 +1,33 @@
+.register {
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    padding: 17px;
+    width: auto2;
+    height: 275px;
+    position: absolute;
+    top: 50%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    text-align:center;
+}
+
+.Input_Container {
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+    /* margin-left: 73px; */
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding: 3px;
+    font-size: 10px;
+    text-align: center;
+}
+.input {
+    margin: 10px;
+    border: 1px solid black;
+}
